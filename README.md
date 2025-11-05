@@ -7,6 +7,8 @@
 
 A beautiful dark theme for Visual Studio Code that gives you the taste of waters from Andromeda.
 
+<img src="https://raw.githubusercontent.com/samlovescoding/oceans-of-andromeda/main/screenshot.png" alt="Oceans of Andromeda Screenshot" width="500" style="margin: 0 10px;"/>
+
 ## Features
 
 - **Deep Ocean Background**: Rich, dark ocean-inspired background (#111D1EFF) that reduces eye strain
