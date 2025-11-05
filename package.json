@@ -4,6 +4,7 @@
   "description": "A taste of the waters from Andromeda.",
   "version": "1.0.0",
   "publisher": "samlovescoding",
+  "icon": "logo.png",
   "engines": {
     "vscode": "^1.65.0"
   },
