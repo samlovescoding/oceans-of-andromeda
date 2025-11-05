@@ -42,4 +42,4 @@ To package the theme as a VSIX file for distribution:
 
 ---
 
-**Enjoy coding with Oceans of Andromeda!** If you like this theme, please star the repository and share it with others.
+**Enjoy coding with Oceans of Andromeda!** If you like this theme, [please star the repository](https://marketplace.visualstudio.com/items?itemName=samlovescoding.oceans-of-andromeda) and share it with others.
