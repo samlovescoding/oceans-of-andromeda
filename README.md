@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samlovescoding/oceans-of-andromeda/main/circle.png" alt="Oceans of Andromeda" width="200"/>
+</p>
+
 # Oceans of Andromeda
 
 A beautiful dark theme for Visual Studio Code that gives you the taste of waters from Andromeda.
