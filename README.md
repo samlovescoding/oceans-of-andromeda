@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/samlovescoding/oceans-of-andromeda/main/circle.png" alt="Oceans of Andromeda" width="200"/>
-  <img src="https://raw.githubusercontent.com/samlovescoding/oceans-of-andromeda/main/square.png" alt="Oceans of Andromeda" width="200"/>
+  <img src="https://raw.githubusercontent.com/samlovescoding/oceans-of-andromeda/main/circle.png" alt="Oceans of Andromeda" width="200" style="margin: 0 10px;"/>
+  <img src="https://raw.githubusercontent.com/samlovescoding/oceans-of-andromeda/main/square.png" alt="Oceans of Andromeda" width="200" style="margin: 0 10px;"/>
 </p>
 
 # Oceans of Andromeda
