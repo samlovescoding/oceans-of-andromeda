@@ -33,10 +33,6 @@ To package the theme as a VSIX file for distribution:
    code --install-extension oceans-of-andromeda-1.0.0.vsix
    ```
 
-## License
-
-MIT License
-
 ---
 
 **Enjoy coding with Oceans of Andromeda!** If you like this theme, please star the repository and share it with others.
