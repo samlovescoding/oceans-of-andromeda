@@ -1,0 +1,35 @@
+{
+  "name": "oceans-of-andromeda",
+  "displayName": "Oceans of Andromeda",
+  "description": "A taste of the waters from Andromeda.",
+  "version": "0.0.1",
+  "publisher": "samlovescoding",
+  "engines": {
+    "vscode": "^1.65.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "ocean",
+    "andromeda",
+    "color theme",
+    "green"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Oceans of Andromeda",
+        "uiTheme": "vs-dark",
+        "path": "./themes/oceans-of-andromeda-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samlovescoding/oceans-of-andromeda"
+  },
+  "license": "MIT"
+}
