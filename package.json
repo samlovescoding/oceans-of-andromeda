@@ -2,9 +2,9 @@
   "name": "oceans-of-andromeda",
   "displayName": "Oceans of Andromeda",
   "description": "A taste of the waters from Andromeda.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "samlovescoding",
-  "icon": "logo.png",
+  "icon": "circle.png",
   "engines": {
     "vscode": "^1.65.0"
   },
